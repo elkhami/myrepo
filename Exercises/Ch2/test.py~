@@ -1,0 +1,3 @@
+def inc(a,b=1):
+    return(a+b)
+a=inc(1)
